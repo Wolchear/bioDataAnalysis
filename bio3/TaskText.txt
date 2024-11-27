@@ -1,0 +1,18 @@
+#--- užduotys ------------------------------------------------------------------
+
+1. Naudojantis tiesinio regresijos modeliu raskite pozicijas, kuriose DNR modifikacija, vienokiu ar kitokiu būdu, priklauso nuo amžiaus:
+
+   - parinkite modelį norimiems efektams ieškoti (žr pagalbą žemiau)
+   - gaukite efekto dydžius (beta coeficientus) bei p-vertes
+   - atlikite korekcijas dėl pakartotinio testavimo (Boferroni bei FDR)
+   - rezultatus atvaizduokite:
+     - p-vertes, histogramos pavidalu
+     - p-vertes ir efekto dydžius, volcano-plot pavidalu
+     - p-vertes ir genomines pozicijas, manhattan plot pavidalu
+     - dešimties pačių patikimiausių skirtumų DNR modifikacijos profilius
+
+2. Perskaitykite Horvath publikaciją apie jo sukurtą "epigenetinį laikrodį" bei pritaikykite jo pateikiamus priedus donorų amžiaus nustatymui jūsų duomenyse (žr pagalbą žėmiau).
+
+3. Nustatykite donorų amžių naudojantis savo pasirinktais epigenetiniais laikrodžiais, bei patyrinėkite ir palyginkite epigenetinių laikrodžių tikslumą bei savybes.
+
+4. Pabandykite rasti ką nors įdomaus.

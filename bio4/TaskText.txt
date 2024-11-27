@@ -1,0 +1,13 @@
+#--- užduotys ------------------------------------------------------------------
+
+1. Pasirinkite klasifikavimo metodą ir apmokinkite jį savo pasirinktam mėginių požymiui nustatyti.
+
+  - atsidėkite 20% mėginių į šalį, testavimui, ir dirbkite su likusiais 80%
+  - pasirinkite požymį iš savo duomenų, kurį bandysite klasifikuoti (rūko/nerūko, amžius, ląstelės tipas, lytis, ar pan.)
+  - išsirinkite klasifikavimo metodą ir susiraskite tą klasifikatorių įgyvendinančią R biblioteką
+    metodų pavyzdžiai: Support Vector Machines, Random Forest, k-Nearest Neighbours, Logistic Regression, Linear Discriminant Analysis, Distance Weighted Discrimination, ir pan.
+  - apmokinkite klasifikatorių naudojant 80% apmokymui pasiliktų duomenų
+  - kokia klasifikatoriaus paklaida testuojant jo tikslumą naudojant jo mokymuisi naudotus duomenis?
+  - tuomet mokymosi imties (pasiliktus 80%) duomenis suskirstykite į 10 dalių ir atlikite "10-fold" kryžminę validaciją (cross validation)
+  - kokia klasifikatoriaus kryžminės validacijos paklaida?
+  - pabaigai, įvertinkite klasifikatoriaus paklaidą naudojant testavimui atidėtus pavyzdžius

@@ -1,0 +1,35 @@
+#--- užduotys ------------------------------------------------------------------
+
+1. Išsirinkite grupę kurią tirsite:
+
+   - pvz. skirtingi audiniai ar ląstelių tipai, jauni vs seni, rūkantys vs nerūkantys, vyrai vs moterys
+
+2. Kiekvienm turimam išmatavimui (eilutei) atlikite statistinį testą lyginantį pasirinktų grupių vidurkius:
+
+   - (dviems grupėms): t.test(), wilcox.test()
+   - (trims ir daugiau grupių): oneway.test(), kruskal.test()
+
+3. Kiekvienai eilutei gaukite du įverčius:
+
+   - efekto dydį (grupių vidurkių skirtumą)
+   - p-vertę
+
+4. Atlikite daugkartinio testavimo p-verčių korekciją:
+
+   - kiek gavote pozicijų reikšmingų be korekcijos (p-reikšme <= 0.05)
+   - kiek gavoge pozicijų reikšmingų po FDR korekcijos (koreguota p-reiškme <= 0.05)
+   - kiek gavote pozicijų reikšmingų po Bonferroni korekcijos (koreguota p-reiškme <= 0.05)
+
+5. Gautus rezultatus atvaizduokite:
+
+   - p-vertes, histogramos pavidalu
+   - p-vertes ir efekto dydžius, volcano-plot pavidalu
+   - p-vertes ir genomines pozicijas, manhattan plot pavidalu
+   - dešimties pačių patikimiausių skirtumų DNR modifikacijos profilius
+
+6. Atlikite Gene Ontology (GO) analizę:
+
+   - naudokite tik po FDR patikimus skirtumus
+   - patikrinkite ar šia skirtumai gali būti susieti su kokiomis nors genų grupėmis
+
+7. Pabandykite rasti ką nors įdomaus.

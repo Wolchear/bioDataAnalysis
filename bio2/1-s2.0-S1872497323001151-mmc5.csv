@@ -1,0 +1,21 @@
+﻿Sample;Actual age;Gender;Cause_Death;Manner;D_Underlying
+2020_7;43;M;Chest injury;Accident;Coronary atherosclerosis, Fatty liver
+2020_8;66;M;Ischemic heart disease;Natural;Coronary atherosclerosis
+2020_13;46;M;Unknown;Natural;Fatty liver, Hypertensive nephropathy
+2020_14;48;M;Hanging;Suicide;Coronary atherosclerosis, Hypertensive nephropathy
+2020_15;56;F;Drowning;Suicide;Uterine myoma & adenomyosis
+2020_16;77;M;Burn;Accident;Coronary atherosclerosis, Hypertensive nephropathy
+2020_17;78;M;Pneumonia;Natural;Chronic subdural hematoma, Coronary atherosclerosis, Hypertensive nephropathy
+2020_23;47;F;Unknown;Natural;Coronary atherosclerosis, Fatty liver, Hypertensive nephropathy, Uterine myoma
+2020_25;56;M;Ischemic heart disease;Natural;Coronary atherosclerosis, Fatty liver, Liver hemangioma, Hypertensive nephropathy
+2020_93;74;M;Ischemic heart disease;Natural;Coronary atherosclerosis, Hypertensive & Diabetic nephropathy
+2020_109;52;F;Drug intoication;Suicide;
+2020_115;52;M;Unknown;Natural;
+2020_118;77;M;Acute myocardial infarction;Natural;
+2020_120;39;M;Drug intoication;Suicide;
+2020_127;38;M;Subarachnoid hemorrhage;Natural;Ischemic heart disease, Coronary atherosclerosis, Fatty liver, Hypertensive nephropathy
+2020_131;18;M;Unknown;Natural;
+2020_138;50;M;Acute myocardial infarction;Natural;Coronary atherosclerosis, Fatty liver, Hypertensive nephropathy
+2020_147;63;M;Ketoacidosis;Natural;Chronic obstructive pulmonary disease, Pulmonary hypertension, Hypertensive nephropathy
+2020_157;41;F;Drug intoication;Suicide;
+2020_165;35;M;r/o Arrhythmia;Natural;

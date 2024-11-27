@@ -1,0 +1,31 @@
+#--- užduotys ------------------------------------------------------------------
+
+1. Parsisiūskite paruoštas duomenų lenteles
+
+   - pateikti du duomenų rinkiniai - pasirinkite vieną
+   - nuorodos emokymai sistemoje.
+
+2. Perskaitykite su jūsų duomenimis susijusę publikaciją
+
+   - skaitydami atkreipkite dėmesį i kas suprantama ir kas ne
+   - trumpai savais žodžiais aprašykite tyrimo tikslus bei rezultatus
+
+3. Atlikite bent vieną kokybės kontrolės patikrinimą
+
+   - galima kokybės kontrolė genominių annotacijų lentelei arba mėginių lentelei
+   - galite atlikti ir daugiau nei vieną
+
+4. Sugrupuokite mėginius naudodami hierarchinį klasterizavimą
+
+   - atvaizduokite bei aprašykite gautus rezultatus
+   - rekomendacijos pateiktos žemiau
+
+5. Atvaizduokite dalį duomenų "heatmap" pavidalu
+
+   - atvaizdavimui pasirinkite genominius regionus ir mėginius (visų duomenų atvaizduoti nepavyks).
+   - aprašykite ir interpretuokite rezultatus
+
+6. Atlikite apžvalginę ("exploratory") analizę.
+
+   - užduotis - rasti ką nors įdomaus
+   - laisvė saviraiškai
